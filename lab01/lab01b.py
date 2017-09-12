@@ -11,3 +11,5 @@ minggu = (hari-tahun*365-bulan*30)/7;
 minggu = int(minggu);
 
 sisa_hari = hari - (tahun*365+bulan*30+minggu*7); 
+
+print (hari, 'adalah', tahun, 'tahun', bulan, 'bulan', minggu, 'minggu dan', sisa_hari, 'hari');

@@ -8,3 +8,4 @@ umur = 2017-tahun;
 
 
 print (nama, "lahir tahun", tahun, "berumur", umur, "tinggal di", tinggal);
+print ("Terima Kasih");
